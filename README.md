@@ -1,2 +1,28 @@
-# b06d4dff-data-science-ml-standard-ope
-The data science tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Data Science &amp; Ml Standard Operating Procedures Library — fully configured and ready to use - Pre-buil
+# Data Science & ML Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm9ATdPpcYI09acDWcZC09)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm9ATdPpcYI09acDWcZC09)
+
